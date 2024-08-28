@@ -33,6 +33,7 @@ nav a {
   padding: 0.2em;
   text-decoration: none;
   display: inline-block;
+  margin-right: 0.5em;
 }
 .ul {
   border: 0.2em solid transparent;
@@ -40,6 +41,17 @@ nav a {
   background-color: #020303;
   border-radius: 0.7em;
   padding: 0.2em;
+  margin-top: 0.7em;
+  text-decoration: none;
+  display: inline-block;
+}
+.of {
+  border: 0.2em solid transparent;
+  color: aliceblue;
+  background-color: #43abf6;
+  border-radius: 0.7em;
+  padding: 0.2em;
+  margin-top: 0.7em;
   text-decoration: none;
   display: inline-block;
 }
