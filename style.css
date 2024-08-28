@@ -1,0 +1,59 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header {
+  padding: 1em;
+}
+article {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+main a {
+  border: 0.2em solid transparent;
+  color: aliceblue;
+  background-color: #030308;
+  border-radius: 0.7em;
+  padding: 0.2em;
+  text-decoration: none;
+  margin-bottom: 2em;
+}
+img {
+  height: 50%;
+  width: 50%; /*a imagem eu posso editar aqui, só colocar uma % que ela ocupa-rá, em telas grandes ou pequenas ela se adaptará pois usará a % q eu quiser*/
+}
+
+nav a {
+  border: 0.2em solid transparent;
+  color: aliceblue;
+  background-color: #43abf6;
+  border-radius: 0.7em;
+  padding: 0.2em;
+  text-decoration: none;
+  display: inline-block;
+}
+.ul {
+  border: 0.2em solid transparent;
+  color: aliceblue;
+  background-color: #020303;
+  border-radius: 0.7em;
+  padding: 0.2em;
+  text-decoration: none;
+  display: inline-block;
+}
+footer a {
+  border: 0.2em solid transparent;
+  color: aliceblue;
+  background-color: #030308;
+  border-radius: 0.7em;
+  padding: 0.2em;
+  text-decoration: none;
+  margin-bottom: 2em;
+}
+.for {
+  background-color: #020303;
+  color: aliceblue;
+  height: 3em;
+}
